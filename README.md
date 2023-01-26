@@ -9,6 +9,8 @@ To install and run on your pc:-
 
 3)Add your sql password and user name in indicated portion of db.php file.
 
+<img width="270" alt="Screenshot 2023-01-05 163248" src="https://user-images.githubusercontent.com/96466685/214813020-1fc67734-b4b2-41b3-8ef4-89bddc6590c1.png">
+
 4)Make sure you have active sql database connection. To do so you can use local server solution software like xampp which is open source and easy to use , or deploy 
 site on a web server connected to sql.
 
@@ -21,5 +23,3 @@ b)Go to xampp control panel and make sure mysql service is in running state.
 c)Open index.htm in your browser.
 
 5)Finally run index.htm and enjoy!
-
-Feel free to ask queries if facing any issues in installation. 
